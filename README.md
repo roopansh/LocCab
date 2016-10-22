@@ -21,3 +21,10 @@ The driver can log in by clikinf the "Driver" button.
 5.) In your browser, go to
 
     localhost/LocCab
+
+#NOTE
+
+Open "user.php" and "driver.php". Search for "**KEY**" and replace it with your key.
+
+To obtain your own key(free), go to
+    https://developers.google.com/maps/
